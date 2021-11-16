@@ -14,7 +14,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "aws-sdk": "^2.524.0",
+    "aws-sdk": "^2.814.0",
     "baseui": "^8.17.1",
     "bokehjs": "^1.2.0",
     "bootstrap": "^4.3.1",
